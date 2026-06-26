@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ayyaluri Satish Kumar Reddy
+# I'm Ayyaluri Satish Kumar Reddy
 
 ## 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast
 
