@@ -67,6 +67,7 @@ https://github.com/satish-ayyaluri/home-soc-lab
 ## 📜 Certifications
 
 - Google Cybersecurity Professional Certificate (In Progress)
+- Foundations of Cybersecurity - Google
 - Play It Safe: Manage Security Risks – Google
 - NPTEL – The Joy of Computing using Python
 
