@@ -21,7 +21,7 @@ I enjoy building hands-on cybersecurity projects and continuously improving my t
 
 ---
 
-## 📚 Currently Learning
+## 📚  Certifications
 
 - 🎓 Google Cybersecurity Professional Certificate
 - 🐍 The Joy of Computing Using Python – NPTEL, IIT Madras
