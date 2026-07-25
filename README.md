@@ -1,35 +1,14 @@
 # Hi there 👋, I'm Ayyaluri Satish Kumar Reddy
 
-## 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Windows Server & IT Support
+## 🛡️ Aspiring SOC Analyst | Windows Server & IT Support | Cybersecurity Enthusiast
 
 I am a B.Tech Computer Science graduate passionate about Cybersecurity, Security Operations Center (SOC), and Windows Server Administration.
 
-I enjoy building hands-on labs to strengthen my practical skills in cybersecurity, Active Directory, Windows administration, and Python development. My goal is to continuously learn, build real-world projects, and contribute to secure IT environments.
+I enjoy building hands-on labs to strengthen my practical skills in cybersecurity, Active Directory, Windows administration, and Python development.
 
 ---
 
-## 🚀 Technical Skills
-
-- Windows Server 2022
-- Active Directory Domain Services (AD DS)
-- Group Policy (GPO)
-- DNS & Domain Administration
-- User & Group Management
-- NTFS Permissions
-- Shared Folders & Drive Mapping
-- Windows Event Viewer
-- Linux
-- Kali Linux
-- Python
-- Splunk Enterprise
-- Snort 3 IDS
-- Burp Suite
-- Nmap
-- Git & GitHub
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -39,8 +18,31 @@ I enjoy building hands-on labs to strengthen my practical skills in cybersecurit
 ![Snort 3](https://img.shields.io/badge/Snort_3-CC0000?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 💻 Technical Skills
+
+- Windows Server 2022 Administration
+- Active Directory Domain Services (AD DS)
+- Group Policy Management (GPO)
+- DNS Configuration & Domain Administration
+- User & Group Management
+- Organizational Units (OU)
+- NTFS Permissions
+- Shared Folder Configuration
+- Drive Mapping
+- Windows Event Viewer
+- Python Programming
+- Linux & Kali Linux
+- Splunk Enterprise
+- Snort 3 IDS
+- Burp Suite
+- Nmap
+- Git & GitHub
 
 ---
 
