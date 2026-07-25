@@ -1,47 +1,32 @@
 # Hi there 👋, I'm Ayyaluri Satish Kumar Reddy
 
-## 🛡️ Aspiring SOC Analyst | Windows Server & IT Support | Cybersecurity Enthusiast
+## 🛡️ Aspiring SOC Analyst | Windows Server Administrator | Cybersecurity Enthusiast
 
-I am a B.Tech Computer Science graduate passionate about Cybersecurity, Security Operations Center (SOC), and Windows Server Administration.
+I am a B.Tech Computer Science graduate passionate about Cybersecurity, Security Operations Center (SOC), Windows Server Administration, and Python automation.
 
-I enjoy building hands-on labs to strengthen my practical skills in cybersecurity, Active Directory, Windows administration, and Python development.
+I build hands-on cybersecurity labs to gain practical experience in:
+- Security monitoring
+- Threat detection
+- Active Directory administration
+- Windows Server management
+- Network security
+- Python-based security automation
+
+Currently focusing on SOC operations, Windows infrastructure, and defensive security skills.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Operating Systems
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### 🔐 Cybersecurity
 ![Snort 3](https://img.shields.io/badge/Snort_3-CC0000?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security-orange?style=for-the-badge)
-
-### 🏢 Windows Administration
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Group Policy](https://img.shields.io/badge/Group_Policy-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-00599C?style=for-the-badge)
-![NTFS](https://img.shields.io/badge/NTFS_Permissions-2E8B57?style=for-the-badge)
-![Event Viewer](https://img.shields.io/badge/Event_Viewer-4B0082?style=for-the-badge)
-
-### 💻 Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Tools
-![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,80 +34,125 @@ I enjoy building hands-on labs to strengthen my practical skills in cybersecurit
 
 # 💻 Technical Skills
 
+### 🖥️ Windows Server & Active Directory
 - Windows Server 2022 Administration
 - Active Directory Domain Services (AD DS)
-- Group Policy Management (GPO)
-- DNS Configuration & Domain Administration
-- User & Group Management
+- User and Group Management
 - Organizational Units (OU)
+- Group Policy Objects (GPO)
+- DNS Configuration
 - NTFS Permissions
-- Shared Folder Configuration
+- Shared Folder Management
 - Drive Mapping
 - Windows Event Viewer
-- Python Programming
-- Linux & Kali Linux
+- Basic Troubleshooting
+
+### 🛡️ Cybersecurity & SOC
+- Security Monitoring Fundamentals
+- SIEM Concepts
 - Splunk Enterprise
 - Snort 3 IDS
+- Network Traffic Analysis
+- Alert Investigation
+- Incident Response Basics
+- MITRE ATT&CK Fundamentals
+
+### 🌐 Security Tools
+- Kali Linux
 - Burp Suite
 - Nmap
-- Git & GitHub
+- PortSwigger Web Security Academy Labs
+
+### 🐍 Programming
+- Python Programming
+- Python Automation Scripts
+- FastAPI Backend Development
+- REST API Basics
+
+### 🔧 Tools
+- Git
+- GitHub
+- VirtualBox
+- Linux Administration
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Projects
 
-### 🛡️ Home SOC Lab
-- Built a Security Operations Center (SOC) home lab using **Snort 3** and **Splunk Enterprise**
-- Simulated attacks and monitored alerts
-- Created dashboards and analyzed security events
+## 🛡️ Home SOC Lab — Snort 3 + Splunk SIEM
 
-### 🖥️ Windows Server Active Directory Lab
-- Installed Windows Server 2022
-- Configured Active Directory Domain Services (AD DS)
-- Created users, groups, and Organizational Units (OUs)
-- Implemented Group Policy Objects (GPO)
-- Configured Shared Folders, NTFS Permissions, and Drive Mapping
-- Performed password reset, account management, and Event Viewer troubleshooting
+Built a complete home SOC environment using:
 
-### 🔐 PortSwigger Web Security Labs
-- Solved multiple Web Security Academy labs covering:
-  - Access Control
-  - Authentication
-  - CSRF
-  - SSRF
-  - File Path Traversal
+- Kali Linux (Attacker Machine)
+- Ubuntu Server (IDS Sensor)
+- Snort 3 IDS
+- Splunk Enterprise SIEM
 
-### 🐍 Python Projects
+Implemented:
+- Custom Snort detection rules
+- ICMP attack detection
+- Network traffic monitoring
+- Security alert ingestion into Splunk
+- SOC dashboard creation
+
+🔗 GitHub:
+https://github.com/satish-ayyaluri/home-soc-lab
+
+
+---
+
+## 🏢 Windows Server Active Directory Lab
+
+Created a practical enterprise-style Windows environment:
+
+Implemented:
+- Domain Controller setup
+- Active Directory Users and Computers
+- Organizational Units
+- Group Policy Management
+- User restrictions
+- Shared folders
+- NTFS permissions
+- Drive mapping
+
+---
+
+## 🐍 Python Security Automation Projects
+
+Projects include:
+
+- Security Log Analyzer
 - Password Manager
-- Pomodoro Timer
-- Flash Card Application
-- Quiz Application
-- FastAPI Student Management API
+- Automation scripts
+- API-based applications
 
 ---
 
-## 📚 Certifications
+# 📜 Certifications
 
-- 🎓 Google Cybersecurity Professional Certificate
-- 🐍 The Joy of Computing Using Python – NPTEL (IIT Madras)
-
----
-
-## 🌱 Currently Learning
-
-- ServiceNow Administration
-- Python Automation
-- SOC Operations
-- Windows Administration
-- Incident Response
+- Google Cybersecurity Professional Certificate
+- NPTEL - The Joy of Computing Using Python
+- Cisco Junior Cybersecurity Modules
 
 ---
 
-## 📫 Connect with Me
+# 📈 Current Learning Journey
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ayyaluri-satish/
-- 💻 GitHub: https://github.com/satish-ayyaluri
+Currently improving:
+
+- SOC Analyst skills
+- Windows Server Administration
+- Active Directory Security
+- Python Development
+- DSA Problem Solving
+- Cloud Fundamentals
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+# 📫 Connect With Me
+
+GitHub:
+https://github.com/satish-ayyaluri
+
+LinkedIn:
+https://www.linkedin.com/in/ayyaluri-satish/
