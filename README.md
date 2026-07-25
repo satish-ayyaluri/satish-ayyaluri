@@ -10,8 +10,6 @@ I enjoy building hands-on labs to strengthen my practical skills in cybersecurit
 
 # 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
-
 ### 💻 Operating Systems
 ![Windows Server](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
